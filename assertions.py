@@ -7,7 +7,7 @@ class AssertionsTest(unittest.TestCase):
     
 
     def setUp(self):
-        self.driver = webdriver.Chrome(executable_path = './chromedriver')
+        self.driver = webdriver.Chrome(executable_path= './chromedriver')
         driver = self.driver
         driver.implicitly_wait(30)
         driver.maximize_window()
@@ -28,5 +28,3 @@ class AssertionsTest(unittest.TestCase):
         except NoSuchElementException as variable:
             return False
         return True
-
-
