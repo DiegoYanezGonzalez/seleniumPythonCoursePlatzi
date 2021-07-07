@@ -1608,9 +1608,3 @@ if __name__ == "__main__":
 ![assets/img52.png](assets/img52.png)
 
 ___
-
-## ¿Quieres conocer mas proyectos?
-
-Puedes visualizar mi portafolio en el siguiente enlace https://jeyfredc.github.io/Portafolio/
-
-![assets/img-portafolio.png](assets/img-portafolio.png)
